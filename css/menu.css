@@ -1,0 +1,23 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #fdc500;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.menu-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.menu-container
+.container{
+    width: 80%;
+}

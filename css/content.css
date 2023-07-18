@@ -1,0 +1,30 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fef9df;
+}
+
+.text-container{
+    width: 99%;
+    height: 100%;
+    padding:  0 .5%;
+}
+
+.text-container .title{
+    margin: 0;
+    font-size: 36px;
+}
+
+.text-container .text-item{
+    margin: 1.5% 0;
+}
+
+.text-container
+.first-paragraph,
+.text-container
+.second-paragraph{
+    font-size: 22px;
+}

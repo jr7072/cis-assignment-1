@@ -1,0 +1,64 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading-container
+.logo-container{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-container 
+.logo-container 
+.logo{
+    padding: 10%;
+    width: 100%;
+    height: auto;
+}
+
+.heading-container
+.main-heading-container{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.text-wrapper{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-container
+.name-container{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.heading-container
+.name-container
+.text-wrapper{
+    width: 100%;
+}
